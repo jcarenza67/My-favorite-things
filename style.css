@@ -1,9 +1,19 @@
 h1 {
-    color:blue;
+    color:rgb(79, 79, 176);
     background-color: orange;
     font-size: x-large;
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }
 h2 {
-    color:brown
+    color:brown;
+    font-style: italic;
+    text-align: center;
 }
+p {
+    font-family: sans-serif;
+}
+ul {
+    font-size: 20px;
+}
+/* this is a comment.*/
