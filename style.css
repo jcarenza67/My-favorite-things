@@ -12,6 +12,11 @@ h2 {
 }
 p {
     font-family: sans-serif;
+    text-align: center;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: x-large;
+    line-height: 50px;
 }
 ul {
     font-size: 20px;
